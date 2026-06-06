@@ -1,5 +1,9 @@
 # Process Watcher
 
+## Project Demonstration
+
+![Process Watcher Running](screenshot.png)
+
 Linux-based process monitoring and inspection utility.
 
 ## Overview
